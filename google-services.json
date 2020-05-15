@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5239179177",
+    "firebase_url": "https://hibud-76d79.firebaseio.com",
+    "project_id": "hibud-76d79",
+    "storage_bucket": "hibud-76d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5239179177:android:3052df52e31193d369e6b8",
+        "android_client_info": {
+          "package_name": "com.example.hibud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5239179177-pppshplruah3p4c15u68t7g8mvtpkjeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hibud",
+            "certificate_hash": "1b1c14967611da5f229de4c389bca82e8a84e6e9"
+          }
+        },
+        {
+          "client_id": "5239179177-lgrn7fc8bg2179p0an69334rvspkbg4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzRo-pF6zEo6OkCR0ckruswn77J8o9d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5239179177-lgrn7fc8bg2179p0an69334rvspkbg4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
